@@ -83,7 +83,7 @@ export default function Main() {
           <div className="p p2">
           <h2> PORTFOLIO</h2> <br />
           <p>Explore my portfolio project crafted with CSS, HTML, and React JS. This dynamic showcase elegantly presents my skills, projects, and education, offering a glimpse into my creative journey and professional expertise.</p><br />
-          <a href="/" target='blank'>CLICK HERE</a>
+          <a href="https://ronaklamba143.github.io/Portfolio/" target='blank'>CLICK HERE</a>
           </div>
           </div>
     </section>    
